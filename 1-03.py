@@ -7,3 +7,5 @@ for c in src:
         rez = rez + 'y'
     else:
         rez = rez + c
+print('src:', src)
+print('rez:', rez)
